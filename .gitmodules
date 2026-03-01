@@ -1,0 +1,6 @@
+[submodule "Firmware/zmk-config"]
+	path = Firmware/zmk-config
+	url = https://github.com/zongxin1993/zmk-config.git
+[submodule "Firmware/zx66-rmk"]
+	path = Firmware/zx66-rmk
+	url = https://github.com/zongxin1993/zx66-rmk.git
