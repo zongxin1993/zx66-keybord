@@ -8,6 +8,9 @@ My modular split 66-key keyboard
 
 The hardware adopts a scheme where the keyboard and core are separated, with an FPC connecting them in the middle, facilitating the replacement of hardware and firmware to implement the scheme
 
+**Known issues:**  
+There is an issue with the physical dimensions of the *Space* bar and *Mo2* key, but it does not affect usage
+
 ## Core Board
 ### Nrf52840
 Base by [nrfmicro](https://github.com/joric/nrfmicro)
